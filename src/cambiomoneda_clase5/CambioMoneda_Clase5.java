@@ -43,5 +43,5 @@ public class CambioMoneda_Clase5 {
                 break;
         }
     }
-  private string atrib1;  
+ 
 }
